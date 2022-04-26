@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="test_main.cpp" />
+    <ClCompile Include="common\player.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="common\util\uitl.cpp">
+      <Filter>common\util</Filter>
+    </ClCompile>
+    <ClCompile Include="grid\grid.cpp">
+      <Filter>grid</Filter>
+    </ClCompile>
+    <ClCompile Include="tower\tower.cpp">
+      <Filter>tower</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="common\common.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="common\player.h">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="common\util\util.h">
+      <Filter>common\util</Filter>
+    </ClInclude>
+    <ClInclude Include="grid\grid.h">
+      <Filter>grid</Filter>
+    </ClInclude>
+    <ClInclude Include="tower\tower.h">
+      <Filter>tower</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="common">
+      <UniqueIdentifier>{75d39651-3c42-4970-a10a-2d6efb4e3681}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="common\util">
+      <UniqueIdentifier>{2fab9dca-58c8-4db2-82b2-3b0038e9599d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="grid">
+      <UniqueIdentifier>{73fbc0ec-d067-45b8-88b9-7dbc639ebe14}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="tower">
+      <UniqueIdentifier>{5ce67c76-38c2-47c4-acfd-ae55de862121}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
