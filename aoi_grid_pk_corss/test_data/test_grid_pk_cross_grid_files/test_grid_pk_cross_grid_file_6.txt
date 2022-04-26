@@ -1,0 +1,80 @@
+
+Begin Test Grid, player_num:20,map_size:50
+Add Player times:1,use_time:16
+Update Pos times:999,use_time:31
+End Test Grid
+
+Begin Test Grid, player_num:20,map_size:100
+Add Player times:1,use_time:0
+Update Pos times:999,use_time:31.5
+End Test Grid
+
+Begin Test Grid, player_num:20,map_size:200
+Add Player times:1,use_time:0
+Update Pos times:999,use_time:31
+End Test Grid
+
+Begin Test Grid, player_num:20,map_size:500
+Add Player times:1,use_time:0
+Update Pos times:999,use_time:31.5
+End Test Grid
+
+Begin Test Grid, player_num:50,map_size:50
+Add Player times:1,use_time:15
+Update Pos times:999,use_time:70.5
+End Test Grid
+
+Begin Test Grid, player_num:50,map_size:100
+Add Player times:1,use_time:0
+Update Pos times:999,use_time:78
+End Test Grid
+
+Begin Test Grid, player_num:50,map_size:200
+Add Player times:1,use_time:0
+Update Pos times:999,use_time:78
+End Test Grid
+
+Begin Test Grid, player_num:50,map_size:500
+Add Player times:1,use_time:0
+Update Pos times:999,use_time:78.5
+End Test Grid
+
+Begin Test Grid, player_num:100,map_size:50
+Add Player times:1,use_time:0
+Update Pos times:999,use_time:148.5
+End Test Grid
+
+Begin Test Grid, player_num:100,map_size:100
+Add Player times:1,use_time:0
+Update Pos times:999,use_time:148
+End Test Grid
+
+Begin Test Grid, player_num:100,map_size:200
+Add Player times:1,use_time:0
+Update Pos times:999,use_time:156.5
+End Test Grid
+
+Begin Test Grid, player_num:100,map_size:500
+Add Player times:1,use_time:0
+Update Pos times:999,use_time:148.5
+End Test Grid
+
+Begin Test Grid, player_num:200,map_size:50
+Add Player times:1,use_time:0
+Update Pos times:999,use_time:297
+End Test Grid
+
+Begin Test Grid, player_num:200,map_size:100
+Add Player times:1,use_time:15
+Update Pos times:999,use_time:297
+End Test Grid
+
+Begin Test Grid, player_num:200,map_size:200
+Add Player times:1,use_time:0
+Update Pos times:999,use_time:281
+End Test Grid
+
+Begin Test Grid, player_num:200,map_size:500
+Add Player times:1,use_time:0
+Update Pos times:999,use_time:297
+End Test Grid
